@@ -4,6 +4,7 @@
 + RequireJs+gulp 
 + webpack
 + yeoman+angular/react
++ 百度 FIS3
 + 终极 实现组件化
 
 ##当然以下技术是必须的
