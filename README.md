@@ -1,6 +1,6 @@
 #波奇大前端技术选型(计划) 
 ##最终目的告别前端刀耕火种时代,迈向最(屌)流(炸)行(天)的前端工程化
-
+### 不同产品线应用不同的技术
 + RequireJs+gulp 
 + webpack
 + yeoman+angular/react
